@@ -1,7 +1,7 @@
-# Hello, I'm Sabriya <span>&#128075;&#127999;</span> 
+# Hello, <span>&#128075;&#127999;</span> 
 
-### About Me
-Currently on a journey to develop my programming skills and explore the vast landscape of software development. My goal is to make a career shift and immerse myself in the ever-evolving tech industry.
+![GitHub Logo](https://raw.githubusercontent.com/ssowers2/ssowers2/df28c5598c24d5a7e8636e9380b89006ac8a89c5/Github%20Banner.jpg)
+
 
 📫 How to reach me: … sabriyasowers@gmail.com
 
