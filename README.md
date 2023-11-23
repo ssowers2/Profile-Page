@@ -1,4 +1,4 @@
-# Hello, <span>&#128075;&#127999;</span> 
+# Welcome! 👋🏾
 
 ![GitHub Logo](https://raw.githubusercontent.com/ssowers2/ssowers2/main/Github%20Banner.jpg)
 
