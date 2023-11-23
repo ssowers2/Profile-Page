@@ -1,7 +1,7 @@
 # Hello, I'm Sabriya <span>&#128075;&#127999;</span> 
 
 ### About Me
-I'm a newcomer to the exciting world of technology. Currently on a journey to develop my programming skills and explore the vast landscape of software development. My goal is to make a career shift and immerse myself in the ever-evolving tech industry.
+Currently on a journey to develop my programming skills and explore the vast landscape of software development. My goal is to make a career shift and immerse myself in the ever-evolving tech industry.
 
 📫 How to reach me: … sabriyasowers@gmail.com
 
