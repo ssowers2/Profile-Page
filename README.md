@@ -2,9 +2,6 @@
 
 ![GitHub Logo](https://raw.githubusercontent.com/ssowers2/ssowers2/df28c5598c24d5a7e8636e9380b89006ac8a89c5/Github%20Banner.jpg)
 
-
-📫 How to reach me: … sabriyasowers@gmail.com
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssowers2&show_icons=true&theme=nightowl)
 
 ### Artificial Intelligence and Bots
