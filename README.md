@@ -1,8 +1,8 @@
-# Hello, I'm Sabriya :wink:
+# Hello, I'm Sabriya <span>&#128075;&#127999;</span>
+
+📫 How to reach me: … sabriyasowers@gmail.com
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssowers2&show_icons=true&theme=nightowl)
-
-&nbsp;
 
 ### Artificial Intelligence and Bots
 [![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](link-to-profile)
