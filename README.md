@@ -2,8 +2,12 @@
 
 ![GitHub Logo](https://raw.githubusercontent.com/ssowers2/ssowers2/main/Github%20Banner.jpg)
 
+📫 How to reach me: sabriyasowers@gmail.com
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssowers2&show_icons=true&theme=nightowl)
+
+### Connect With Me
+www.linkedin.com/in/sabriyasowers
 
 ### Artificial Intelligence and Bots
 [![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](link-to-profile)
