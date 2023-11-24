@@ -1,6 +1,7 @@
 # Hello World! 👋🏾
 
-![GitHub Banner](https://raw.githubusercontent.com/ssowers2/ssowers2/main/Github%20Banner.jpg)
+## About Me
+I'm on a journey to level up my programming skills and explore the vast world of software development. My goal? Make a career shift and dive headfirst into the ever-evolving tech scene. Excited to learn, grow, and contribute to the amazing world of technology! 
 
 📫 How to reach me: sabriyasowers@gmail.com
 
