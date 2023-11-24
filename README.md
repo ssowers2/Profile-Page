@@ -1,6 +1,6 @@
 # Welcome! 👋🏾
 
-![GitHub Logo](https://raw.githubusercontent.com/ssowers2/ssowers2/main/Github%20Banner.jpg)
+![GitHub Banner](https://raw.githubusercontent.com/ssowers2/ssowers2/main/Github%20Banner.jpg)
 
 📫 How to reach me: sabriyasowers@gmail.com
 
